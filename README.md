@@ -15,12 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 <!-- Visitor count -->
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{HelderHub}/count.svg" alt="Visitor's Count" />
 </div>
+<!-- Visitor count -->
 
+<!-- Visitor count -->
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{HelderHub}/count.svg" alt="Visitor's Count" />
+</div>
 <!-- Visitor count -->
 
 
@@ -42,7 +54,7 @@ Here are some ideas to get you started:
 <!-- Badges -->
 
 - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{HelderHub}/{HelderHub}/issues)**
 
 <br>
 <div align="center">
