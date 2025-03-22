@@ -1,25 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="header"/> 
-
-<!-- Hi There animation -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;" />
-</h1>
-<!-- Hi There animation -->
-
 <!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+    Hey there, I'm Hélder Fernandes!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn www.linkedin.com/in/helderfernandes101 :))
 -->
 
+<!-- 
+    Header Banner
+ -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="header"/> 
+
+<!-- 
+    Hi There animation 
+-->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;" />
+</h1>
+
+<!-- Readme Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=25&duration=4500&pause=500&&color=6bc4cc&width=435&lines=Hi+there!+;I'm+H%C3%A9lder;Software+Developer" alt="Typing SVG" /></a>
+<!-- Readme Typing SVG -->
+
+<!-- 
+    Terminal GIF
+-->
 <div>
-    <img src="./assets/about_helder.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
 </div>
 
 <!--
-     My mission, because I'm a superhero!
+    My mission, because I'm a superhero!
 -->
-
 ### My mission
-I am a passionate web developer with a background in supply chain management and team leadership. Transitioning into tech, I have developed a strong interest in programming and building technology-driven solutions that optimize processes and enhance user experiences.
+I am a passionate software developer with a background in supply chain management and team leadership. Transitioning into tech, I have developed a strong interest in programming and building technology-driven solutions that optimize processes and enhance user experiences.
 
 With a problem-solving mindset and a keen eye for efficiency, I focus on creating clean, scalable, and user-friendly web applications. My goal is to continuously grow as a developer while contributing to innovative projects that make a real impact.
 
@@ -32,10 +47,6 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
-
-<!--
-     I also have my own blog with useful information, check it out ^^
--->
 
 <!--
      Fast links to my socials!
@@ -68,43 +79,6 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 
 
 
-<!--
-    Hey there, I'm Hélder Fernandes!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
-    
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn www.linkedin.com/in/helderfernandes101 :))
--->
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Used
-
-https://github.com/DenverCoder1/readme-typing-svg
-
-
-
-<!-- Readme Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=25&duration=4500&pause=500&&color=4C8C92&width=435&lines=Hi+there!+;I'm+H%C3%A9lder;Software+Developer" alt="Typing SVG" /></a>
-<!-- Readme Typing SVG -->
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 
 <!-- Visitor count -->
 <div align="center"> 
@@ -113,17 +87,8 @@ https://github.com/DenverCoder1/readme-typing-svg
 </div>
 <!-- Visitor count -->
 
-<!-- Visitor count -->
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{HelderHub}/count.svg" alt="Visitor's Count" />
-</div>
-<!-- Visitor count -->
 
 <!-- Badges -->
-
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{HelderHub}/{HelderHub}/issues)**
 
 <br>
 <div align="center">
@@ -144,7 +109,9 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 <!-- Badges -->
 
-<!-- Skillicons -->
+<!-- 
+    Skillicons
+-->
 
 ## 🛠️ Languages and Tools
 
@@ -157,9 +124,10 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 <hr>
 
-<!-- Skillicons -->
 
-<!-- User stats -->
+<!-- 
+    User stats
+-->
 
 ## ⚡️ Stats
 
@@ -173,121 +141,32 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 <hr>
 
-<!-- User stats -->
-
-<!-- Snake -->
-
-<!-- tutorial
-
-create a generate-snake.yml file in the .github/workflows/ directory.
-paste below ----------------------------------------------------------------------------------------------------------------------------------
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
-
-# Controls when the action will run.
-on:
-  schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
-  
-  # Also run on every push on the main branch
-  push:
-    branches:
-    - main
-
-# The sequence of runs in this workflow:
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
-    
-      - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Show build status
-        run: git status
-
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-paste above ----------------------------------------------------------------------------------------------------------------------------------
-end tutorial -->
-
+<!-- 
+    Snake
+ -->
 
 ## 🐍 My Contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{HelderHub}/{HelderHub}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{HelderHub}/{HelderHub}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{HelderHub}/{HelderHub}/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HelderHub/HelderHub/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HelderHub/HelderHub/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/HelderHub/HelderHub/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <hr>
 
-<!-- Snake -->
-
-<!-- Links -->
-
-<!-- tutorial
-create a new blog-post.yml file in the .github/workflows/ directory.
-
-paste below ----------------------------------------------------------------------------------------------------------------------------------
-name: Latest blog post workflow
-on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
-
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://medium.com/feed/@chijiokeokorji"
-paste above ----------------------------------------------------------------------------------------------------------------------------------
- end tutorial -->
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- Links -->
 
 <!-- Banner -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 <!-- Banner -->
 
+<!--  Used
+
+https://github.com/DenverCoder1/readme-typing-svg
+
+-->
 
 <!--
      Thanks for being my guest <3
