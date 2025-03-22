@@ -1,5 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="header"/> 
 
+<!-- Hi There animation -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;" />
+</h1>
+<!-- Hi There animation -->
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
@@ -60,7 +65,6 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 
 
@@ -115,22 +119,6 @@ https://github.com/DenverCoder1/readme-typing-svg
   <img src="https://profile-counter.glitch.me/{HelderHub}/count.svg" alt="Visitor's Count" />
 </div>
 <!-- Visitor count -->
-
-
-<!-- Banner -->
-
-<img src="https://github.com/{HelderHub}/{HelderHub}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
-
-<!-- Banner -->
-
-<!-- Hi There animation -->
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;" />
-</h1>
-
-<!-- Hi There animation -->
-
 
 <!-- Badges -->
 
@@ -295,6 +283,10 @@ paste above --------------------------------------------------------------------
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Links -->
+
+<!-- Banner -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<!-- Banner -->
 
 
 <!--
