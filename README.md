@@ -1,15 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
-</a>
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_helder.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
@@ -17,7 +14,9 @@
 -->
 
 ### My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
+I am a passionate web developer with a background in supply chain management and team leadership. Transitioning into tech, I have developed a strong interest in programming and building technology-driven solutions that optimize processes and enhance user experiences.
+
+With a problem-solving mindset and a keen eye for efficiency, I focus on creating clean, scalable, and user-friendly web applications. My goal is to continuously grow as a developer while contributing to innovative projects that make a real impact.
 
 <!--
      This is the list of my skills and tools I am studying!
