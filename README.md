@@ -78,8 +78,6 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 
 
 
-
-
 <!-- Visitor count -->
 <div align="center"> 
   <p>Visitor count</p>
@@ -135,7 +133,6 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=HelderHub&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Hélder's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=HelderHub&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Hélder's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=HelderHub&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Hélder's Most Used Languages" />
 </div>
 
