@@ -120,9 +120,6 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
-<hr>
-
-
 <!-- 
     User stats
 -->
@@ -136,11 +133,9 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=HelderHub&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Hélder's Most Used Languages" />
 </div>
 
-<hr>
-
 <!-- 
     Snake
- -->
+-->
 
 ## 🐍 My Contributions
 
@@ -152,14 +147,15 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
   </picture>
 </div>
 
-<hr>
 
+<!-- 
+    Banner 
+-->
 
-<!-- Banner -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-<!-- Banner -->
 
-<!--  Used
+<!--  
+    Used
 
 https://github.com/DenverCoder1/readme-typing-svg
 
