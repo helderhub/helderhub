@@ -19,17 +19,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4500&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" />
 </h1>
 
-<!-- Readme Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=25&duration=0&pause=0&&color=6bc4cc&width=435&lines=Hi+there!+;I'm+H%C3%A9lder;Software+Developer" alt="Typing SVG" /></a>
-<!-- Readme Typing SVG -->
-
 <!-- 
     Terminal GIF
--->
+
 <div>
     <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
 </div>
-
+-->
 <!--
     My mission, because I'm a superhero!
 -->
@@ -42,17 +38,17 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
      This is the list of my skills and tools I am studying!
 -->
 
-### Main skills
+## Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
-### Studying
+## Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
 -->
 
-### Connect with me!
+## Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
@@ -78,12 +74,12 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 
 
 
-<!-- Visitor count -->
+<!-- Visitor count 
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{HelderHub}/count.svg" alt="Visitor's Count" />
 </div>
-<!-- Visitor count -->
+ Visitor count -->
 
 
 <!-- Badges -->
