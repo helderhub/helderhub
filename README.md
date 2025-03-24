@@ -152,7 +152,7 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
     Banner 
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=footer" alt="footer"/>
 
 <!--  
     Used
