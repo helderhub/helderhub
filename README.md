@@ -16,11 +16,11 @@
     Hi There animation 
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4500&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" />
 </h1>
 
 <!-- Readme Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=25&duration=4500&pause=500&&color=6bc4cc&width=435&lines=Hi+there!+;I'm+H%C3%A9lder;Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=25&duration=0&pause=0&&color=6bc4cc&width=435&lines=Hi+there!+;I'm+H%C3%A9lder;Software+Developer" alt="Typing SVG" /></a>
 <!-- Readme Typing SVG -->
 
 <!-- 
