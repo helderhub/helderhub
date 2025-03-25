@@ -32,14 +32,15 @@
 -->
 ## My mission
 <p>
-<h3 align="center">I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications.
-    With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences. Continuously learning and growing, I’m committed to contributing to innovative projects that make a real impact.</h3>
+<h3 align="center">I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications.</h3>
+<h3 align="center">With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences.</h3>
+<h3 align="center">Continuously learning and growing, I’m committed to contributing to innovative projects that make a real impact.</h3>
 </p>
 <!--
      This is the list of my skills and tools I am studying!
 -->
 
-## 🛠️ Languages and Tools
+## 🛠️ Main Skills
 
 <br>
 
@@ -48,14 +49,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
 </p>
 
-## Studying
+## :book: Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,flutter,unity)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
 -->
 
-## Connect with me!
+## :globe_with_meridians: Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="48" height="48"/>
