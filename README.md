@@ -21,11 +21,11 @@
 
 <!-- 
     Terminal GIF
--->
+
 <div>
     <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
 </div>
-
+-->
 <!--
     My mission, because I'm a superhero!
 -->
@@ -38,17 +38,17 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
      This is the list of my skills and tools I am studying!
 -->
 
-### Main skills
+## Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
-### Studying
+## Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
 -->
 
-### Connect with me!
+## Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
@@ -105,9 +105,6 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
-<hr>
-
-
 <!-- 
     User stats
 -->
@@ -118,15 +115,12 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=HelderHub&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Hélder's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=HelderHub&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Hélder's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=HelderHub&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Hélder's Most Used Languages" />
 </div>
 
-<hr>
-
 <!-- 
     Snake
- -->
+-->
 
 ## 🐍 My Contributions
 
@@ -138,14 +132,15 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
   </picture>
 </div>
 
-<hr>
 
+<!-- 
+    Banner 
+-->
 
-<!-- Banner -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-<!-- Banner -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=footer" alt="footer"/>
 
-<!--  Used
+<!--  
+    Used
 
 https://github.com/DenverCoder1/readme-typing-svg
 
