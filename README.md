@@ -13,15 +13,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="header"/> 
 
 <!-- 
-    Hi There animation 
+    Hi there animation - Readme Typing SVG 
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
 </h1>
-
-<!-- Readme Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=25&duration=4500&pause=500&&color=6bc4cc&width=435&lines=Hi+there!+;I'm+H%C3%A9lder;Software+Developer" alt="Typing SVG" /></a>
-<!-- Readme Typing SVG -->
 
 <!-- 
     Terminal GIF
@@ -34,10 +30,10 @@
     My mission, because I'm a superhero!
 -->
 ### My mission
-I am a passionate software developer with a background in supply chain management and team leadership. Transitioning into tech, I have developed a strong interest in programming and building technology-driven solutions that optimize processes and enhance user experiences.
-
-With a problem-solving mindset and a keen eye for efficiency, I focus on creating clean, scalable, and user-friendly web applications. My goal is to continuously grow as a developer while contributing to innovative projects that make a real impact.
-
+<h3 align="center">I am a passionate software developer with a background in supply chain management and team leadership. Transitioning into tech, I have developed a strong interest in programming and building technology-driven solutions that optimize processes and enhance user experiences.
+<h3>
+With a problem-solving mindset and a keen eye for efficiency, I focus on creating clean, scalable, and user-friendly web applications. My goal is to continuously grow as a developer while contributing to innovative projects that make a real impact.</h3>
+</p>
 <!--
      This is the list of my skills and tools I am studying!
 -->
@@ -58,13 +54,10 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://dev.to/helderhub">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="35" height="35"/>
     </a>
     <a href="https://www.credly.com/users/helderfernandes101">
         <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
-    </a>
-    <a href="https://medium.com/@daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
     </a>
 </div>
 
@@ -77,16 +70,12 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
 
-
-
-
 <!-- Visitor count -->
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{HelderHub}/count.svg" alt="Visitor's Count" />
 </div>
 <!-- Visitor count -->
-
 
 <!-- Badges -->
 
@@ -97,12 +86,6 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
   </a>
   <a href="https://linkedin.com/in/helderfernandes101" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://medium.com/@helderfernandes" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codepen.io/helderfernandes" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
 </div>
 <hr>
