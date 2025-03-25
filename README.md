@@ -31,14 +31,13 @@
     My mission, because I'm a superhero!
 -->
 ## My mission
-<h3 align="center">I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications. With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences. Continuously learning and growing, I’m committed to contributing to innovative projects that make a real impact.</h3>
+<p>
+<h3 align="center">I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications.
+    With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences. Continuously learning and growing, I’m committed to contributing to innovative projects that make a real impact.</h3>
 </p>
 <!--
      This is the list of my skills and tools I am studying!
 -->
-
-## Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,git,github,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
 ## 🛠️ Languages and Tools
 
