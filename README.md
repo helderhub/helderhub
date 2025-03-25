@@ -26,23 +26,32 @@
     <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
 </div>
 -->
+
 <!--
     My mission, because I'm a superhero!
 -->
-### My mission
+## My mission
 <h3 align="center">I am a passionate software developer with a background in supply chain management and team leadership. Transitioning into tech, I have developed a strong interest in programming and building technology-driven solutions that optimize processes and enhance user experiences.
-<h3>
-With a problem-solving mindset and a keen eye for efficiency, I focus on creating clean, scalable, and user-friendly web applications. My goal is to continuously grow as a developer while contributing to innovative projects that make a real impact.</h3>
+<h3 align="center">With a problem-solving mindset and a keen eye for efficiency, I focus on creating clean, scalable, and user-friendly web applications. My goal is to continuously grow as a developer while contributing to innovative projects that make a real impact.</h3>
 </p>
 <!--
      This is the list of my skills and tools I am studying!
 -->
 
 ## Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,git,github,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c++,c#,flutter,ts,nodejs,react,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
+</p>
 
 ## Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure,flutter,unity)](https://skillicons.dev)
 
 <!--
      Fast links to my socials!
@@ -51,13 +60,13 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 ## Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/helderfernandes101/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="48" height="48"/>
     </a>
     <a href="https://dev.to/helderhub">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="48" height="48"/>
     </a>
     <a href="https://www.credly.com/users/helderfernandes101">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="48" height="48"/>
     </a>
 </div>
 
@@ -70,40 +79,12 @@ With a problem-solving mindset and a keen eye for efficiency, I focus on creatin
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
 
-<!-- Visitor count -->
+<!-- Visitor count 
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{HelderHub}/count.svg" alt="Visitor's Count" />
 </div>
-<!-- Visitor count -->
-
-<!-- Badges -->
-
-<br>
-<div align="center">
-  <a href="helderfernandeswork@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/helderfernandes101" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-<hr>
-
-<!-- Badges -->
-
-<!-- 
-    Skillicons
 -->
-
-## 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
-</p>
 
 <!-- 
     User stats
