@@ -19,13 +19,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
 </h1>
 
-<!-- 
     Terminal GIF
-
 <div>
     <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
 </div>
--->
 
 <!--
     My mission, because I'm a superhero!
@@ -73,7 +70,7 @@
      Oh, hello there, recruiters!
 -->
 
-### Employer?
+### :man_office_worker: Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
@@ -92,7 +89,6 @@
 
 <!-- 
     Snake
--->
 
 ## 🐍 My Contributions
 
@@ -104,6 +100,7 @@
   </picture>
 </div>
 
+-->
 
 <!-- 
     Banner 
