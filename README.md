@@ -31,8 +31,7 @@
     My mission, because I'm a superhero!
 -->
 ## My mission
-<h3 align="center">I am a passionate software developer with a background in supply chain management and team leadership. Transitioning into tech, I have developed a strong interest in programming and building technology-driven solutions that optimize processes and enhance user experiences.
-<h3 align="center">With a problem-solving mindset and a keen eye for efficiency, I focus on creating clean, scalable, and user-friendly web applications. My goal is to continuously grow as a developer while contributing to innovative projects that make a real impact.</h3>
+<h3 align="center">I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications. With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences. Continuously learning and growing, I’m committed to contributing to innovative projects that make a real impact.</h3>
 </p>
 <!--
      This is the list of my skills and tools I am studying!
@@ -77,14 +76,6 @@
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
-
-
-<!-- Visitor count 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{HelderHub}/count.svg" alt="Visitor's Count" />
-</div>
--->
 
 <!-- 
     User stats
