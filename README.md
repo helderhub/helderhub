@@ -85,6 +85,7 @@
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=HelderHub&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Hélder's GitHub Stats" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=HelderHub&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Hélder's Most Used Languages" />
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="helderhub" /></p>
 </div>
 
 <!-- 
@@ -126,4 +127,3 @@ https://github.com/DenverCoder1/readme-typing-svg
 <!--
      Thanks for being my guest <3
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="helderhub" /></p>
