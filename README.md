@@ -19,11 +19,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
 </h1>
 
-    Terminal GIF
+<!--    Terminal GIF
 <div>
     <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
 </div>
-
+-->
 <!--
     My mission, because I'm a superhero!
 -->
@@ -118,3 +118,25 @@ https://github.com/DenverCoder1/readme-typing-svg
 <!--
      Thanks for being my guest <3
 -->
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helderhub&label=Profile%20views&color=0e75b6&style=flat" alt="helderhub" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helderhub" alt="helderhub" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/HelderHub"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HelderHub" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="helderhub" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helderhub&show_icons=true&locale=en" alt="helderhub" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helderhub&" alt="helderhub" /></p>
+
