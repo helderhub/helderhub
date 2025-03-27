@@ -1,38 +1,39 @@
 <!--
     Hey there, I'm Hélder Fernandes!
-    Happy to see you here exploring my README code
-    Feel free to inspire!
+    Happy to see you exploring my README.
+    Feel free to get inspired!
     
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn www.linkedin.com/in/helderfernandes101 :)
+    If you like my work, a follow would mean a lot! 🚀
+    Let's connect on LinkedIn: www.linkedin.com/in/helderfernandes101 :)
 -->
 
 <!-- 
-    Header Banner
- -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="header"/> 
+    🎨 Header Banner
+-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="Header"/>  
 
 <!-- 
-    Hi there animation - Readme Typing SVG 
+    ✨ Animated Introduction - Readme Typing SVG 
 -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
 </h1>
 
 <!--
-    My mission, because I'm a superhero!
+    🎯 My Mission Statement
 -->
-## My mission
-<p>
+## 🚀 My Mission  
+
 <h3 align="center">I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications.</h3>
 <h3 align="center">With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences.</h3>
 <h3 align="center">Continuously learning and growing, I’m committed to contributing to innovative projects that make a real impact.</h3>
-</p>
-<!--
-     This is the list of my skills and tools I am studying!
--->
 
-## 🛠️ Main Skills
+---
+
+<!--
+    🛠️ My Technical Skills
+-->
+## 🛠️ Main Skills  
 
 <br>
 
@@ -41,14 +42,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
 </p>
 
-## :book: Studying
+<!--
+    📚 Technologies I'm currently exploring
+-->
+## 📚 Currently Learning  
+
 [![Learning](https://skillicons.dev/icons?i=aws,azure,flutter,unity)](https://skillicons.dev)
 
-<!--
-     Fast links to my socials!
--->
+---
 
-## :globe_with_meridians: Connect with me!
+<!--
+    🌍 Where to find me online
+-->
+## 🌍 Connect with Me!  
 <div>
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="48" height="48"/>
@@ -61,72 +67,60 @@
     </a>
 </div>
 
-<!--
-     Oh, hello there, recruiters!
--->
+---
 
-### :man_office_worker: Employer?
+<!--
+    💼 For Recruiters and Employers
+-->
+### 👨‍💼 Looking to Hire?  
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> 📜 **[Download My Resume](https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing)**  
+
+---
 
 <!-- 
-    User stats
+    📊 GitHub Stats
 -->
-
-## ⚡️ Stats
+## ⚡️ GitHub Stats  
 
 <br>
 
 <div align=left>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="helderhub" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" /></p>
 </div>
 
-<!-- 
-    Snake
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HelderHub/HelderHub/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HelderHub/HelderHub/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/HelderHub/HelderHub/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
--->
+---
 
 <!-- 
-    www.buymeacoffee.com
+    ☕ Support My Work
 -->
+<a href="https://www.buymeacoffee.com/HelderHub"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
+</a>
 
-<a href="https://www.buymeacoffee.com/HelderHub"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HelderHub" /></a>
-
+---
 
 <!-- 
-    Banner 
+    🎨 Footer Banner
 -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=footer" alt="Footer"/>  
 
 <!--  
-    Used
+    🔗 Resources Used in this README:
 
-https://github.com/DenverCoder1/readme-typing-svg
-https://github.com/tandpfun/skill-icons#readme
-https://github.com/anuraghazra/github-readme-stats
-
+    - Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
+    - Skill Icons: https://github.com/tandpfun/skill-icons#readme
+    - GitHub Stats: https://github.com/anuraghazra/github-readme-stats
 -->
 
 <!--  
-    NOT Used
-    
-<div>
-    <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
-</div>
+    ❌ Unused Elements:
 
+    <div>
+        <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
+    </div>
 -->
 
 <!--
-     Thanks for being my guest <3
+    🎉 Thanks for stopping by! Feel free to connect. 🚀
 -->
