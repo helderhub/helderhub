@@ -47,7 +47,7 @@
 -->
 ## 📚 Currently Learning  
 <p align="center">
-[![Learning](https://skillicons.dev/icons?i=aws,azure,flutter,unity)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=aws,azure,flutter,unity" />
 </p>
 
 ---
