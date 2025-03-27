@@ -46,8 +46,9 @@
     📚 Technologies I'm currently exploring
 -->
 ## 📚 Currently Learning  
-
+<p align="center">
 [![Learning](https://skillicons.dev/icons?i=aws,azure,flutter,unity)](https://skillicons.dev)
+</p>
 
 ---
 
