@@ -25,8 +25,8 @@
 ## My mission
 <p>
 <h3 align="center">I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications.</h3>
-<h2 align="center">With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences.</h2>
-<h4 align="center">Continuously learning and growing, I’m committed to contributing to innovative projects that make a real impact.</h4>
+<h3 align="center">With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences.</h3>
+<h3 align="center">Continuously learning and growing, I’m committed to contributing to innovative projects that make a real impact.</h3>
 </p>
 <!--
      This is the list of my skills and tools I am studying!
