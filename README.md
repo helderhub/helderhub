@@ -4,7 +4,7 @@
     Feel free to inspire!
     
     But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn www.linkedin.com/in/helderfernandes101 :))
+    You may also want to connect with me on LinkedIn www.linkedin.com/in/helderfernandes101 :)
 -->
 
 <!-- 
@@ -19,11 +19,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
 </h1>
 
-<!--    Terminal GIF
-<div>
-    <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
-</div>
--->
 <!--
     My mission, because I'm a superhero!
 -->
@@ -105,8 +100,7 @@
     www.buymeacoffee.com
 -->
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/HelderHub"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HelderHub" /></a></p><br><br>
+<a href="https://www.buymeacoffee.com/HelderHub"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="HelderHub" /></a>
 
 
 <!-- 
@@ -121,6 +115,15 @@
 https://github.com/DenverCoder1/readme-typing-svg
 https://github.com/tandpfun/skill-icons#readme
 https://github.com/anuraghazra/github-readme-stats
+
+-->
+
+<!--  
+    NOT Used
+    
+<div>
+    <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
+</div>
 
 -->
 
