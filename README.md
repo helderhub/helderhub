@@ -50,8 +50,6 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,flutter,unity" />
 </p>
 
----
-
 <!--
     🌍 Where to find me online
 -->
@@ -68,16 +66,12 @@
     </a>
 </div>
 
----
-
 <!--
     💼 For Recruiters and Employers
 -->
 ### 👨‍💼 Looking to Hire?  
 > [!IMPORTANT]  
 > 📜 **[Download My Resume](https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing)**  
-
----
 
 <!-- 
     📊 GitHub Stats
@@ -90,16 +84,12 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" /></p>
 </div>
 
----
-
 <!-- 
     ☕ Support My Work
 -->
 <a href="https://www.buymeacoffee.com/HelderHub"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
 </a>
-
----
 
 <!-- 
     🎨 Footer Banner
