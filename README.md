@@ -10,11 +10,13 @@
 <!--
     🎨 Header Banner
 -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="Header"/>
 
 <!--
     ✨ Animated Introduction - Readme Typing SVG
 -->
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
 </h1>
@@ -27,9 +29,6 @@
 
 <h3 align="center">I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications.</h3>
 <h3 align="center">With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences.</h3>
-<h3 align="center">Continuously learning and growing, I’m committed to contributing to innovative projects that make a real impact.</h3>
-
----
 
 <!--
     🛠️ My Technical Skills              Premium user stackoverflow
@@ -37,36 +36,10 @@
 
 ## 🛠️ Main Skills
 
-<br>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=c++,c#,.net,php,laravel,nodejs,ts,react,sql,sqlserver,mysql"/>
 
-<p align="center">
-  <!-- Programming Languages -->
-  <strong>Programming Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=c++,c#,php,ts,js,sql,html,css" />
-</p>
-
-<p align="center">
-  <!-- Frameworks and Libraries -->
-  <strong>Frameworks & Libraries</strong><br>
-  <img src="https://skillicons.dev/icons?i=.net,laravel,nodejs,react,angular,vue,bootstrap,tailwind,smarty,vite" />
-</p>
-
-<p align="center">
-  <!-- Databases -->
-  <strong>Databases</strong><br>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql" />
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <strong>Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,sentry,notion,figma" />
-</p>
-
-<p align="center">
-  <!-- Platforms -->
-  <strong>Platforms</strong><br>
-  <img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,git,github,gitlab,docker,postman,sentry,notion,smarty,vite,figma,linux" /> 
 </p>
 
 <!--
@@ -76,7 +49,7 @@
 ## 📚 Currently Learning
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,dart,flutter,unity" />
+    <img src="https://skillicons.dev/icons?i=dart,flutteraws,azure," />
 </p>
 
 <!--
@@ -101,31 +74,33 @@
 
 <!--
     💼 For Recruiters and Employers
--->
+
 
 ### 👨‍💼 Looking to Hire?
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > 📜 **[Download My Resume](https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing)**
-
+-->
 <!--
     📊 GitHub Stats
 -->
 
 ## ⚡️ GitHub Stats
 
-<br>
-
-<div align=left>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" /></p>
+<div>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
+</p>
 </div>
 
 <!--
     ☕ Support My Work
 -->
+<div align=center>
 <a href="https://www.buymeacoffee.com/HelderHub"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
 </a>
+</div>
 
 <!--
     🎨 Footer Banner
