@@ -21,17 +21,29 @@
 -->
 <div>
     <p align="center">
-        <h1>
+        <h3>
             <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
-        </h1>
+        </h3>
     </p>
 </div>
+
+### 👀 About Me
+
+My name is Hélder Fernandes, I'm a Software Developer from Portugal. I'm passionate about creating clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
+
+- 📖 I’m currently learning *Flutter* and exploring *AWS* and *Azure*
+- 📌 I'm interested in **mobile development**, **cloud technologies**, and **design patterns**
+- 💬 Ask me about: **C#, .NET, JavaScript, TypeScript, and Laravel**
+- 👨‍💻 My projects are available [here](https://github.com/HelderHub)
+- 😄 Pronouns: he, him
+- ❤️ Favourite emoji: 🚀
+- ⚡ Fun fact: I enjoy solving complex problems and optimizing processes, but I also love exploring new cuisines 🧑‍🍳
 
 <!--
     🎯 My Mission Statement
 -->
 
-## 🚀 My Mission
+### 🚀 My Mission
 
 <div>
     <p align="center">
@@ -44,12 +56,14 @@
     🛠️ My Technical Skills              Premium user stackoverflow
 -->
 
-## 🛠️ Main Skills
+### 🛠️ Main Skills
 
 <div>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=c++,c#,.net,php,laravel,nodejs,ts,react,sql,sqlserver,mysql"/>
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,git,github,gitlab,docker,postman,sentry,notion,smarty,vite,figma,linux"/> 
+    </p>
+    <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,git,github,gitlab,docker,postman,sentry,notion,vite,figma"/> 
     </p>
 </div>
 
@@ -61,7 +75,7 @@
 
 <div>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=dart,flutteraws,azure,"/>
+        <img src="https://skillicons.dev/icons?i=dart,flutter,aws,azure,"/>
     </p>
 </div>
 
@@ -76,8 +90,8 @@
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
     </a>
-    <a href="https://www.credly.com/users/helderfernandes101">
-        <img src="https://skillicons.dev/icons?i=credly" alt="Credly" width="48" height="48"/>
+    <a href="https://www.instagram.com/_helderfernandes_">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Credly" width="48" height="48"/>
     </a>
     <a href="https://github.com/HelderHub">
         <img src="https://skillicons.dev/icons?i=github" alt="Credly" width="48" height="48"/>
