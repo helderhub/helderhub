@@ -10,15 +10,15 @@
 <!--
     🎨 Header Banner
 -->
-<div align="left">
+<div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=70&section=header" alt="Header"/>
 </div>
 
 <!--
     ✨ Animated Introduction - Readme Typing SVG
 -->
-<div align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&left=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&center=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
 </div>
 
 ### 🚀 My Mission
@@ -39,26 +39,26 @@ My name is **Hélder Fernandes**, i’m a passionate software developer focused 
 
 ### ⚙️ Main Skills
 
-<div align="left">
+<div align="center">
     <!-- First row: Most commonly used or core skills -->
-    <img src="https://skillicons.dev/icons?i=c++,c#,dotnet,php,laravel,nodejs,ts,react,sql,sqlserver,mysql"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,nodejs,ts,react,sql,sqlserver,mysql"/>
     <br/>
     <!-- Second row: Frontend and version control tools -->
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,git,github,gitlab"/>
     <br/>
     <!-- Third row: Supporting tools and design -->
-    <img src="https://skillicons.dev/icons?i=docker,postman,sentry,notion,vite,figma"/>
+    <img src="https://skillicons.dev/icons?i=docker&theme=light,postman&theme=light,sentry&theme=light,notion&theme=light,vite&theme=light,figma&theme=light"/>
 </div>
 
 ### 📚 Currently Learning
 
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,aws,azure"/>
 </div>
 
 ### 🌍 Connect with Me!
 
-<div align="left">
+<div align="center">
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
     </a>
@@ -72,13 +72,13 @@ My name is **Hélder Fernandes**, i’m a passionate software developer focused 
 
 ### ⚡️ GitHub Stats
 
-<div align="left">
+<div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
 </div>
 
 ### ☕ Support My Work
 
-<div align="left">
+<div align="center">
     <a href="https://www.buymeacoffee.com/HelderHub"> 
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="208" alt="Buy Me a Coffee"/>
     </a>
@@ -87,7 +87,7 @@ My name is **Hélder Fernandes**, i’m a passionate software developer focused 
 <!--
     🎨 Footer Banner
 -->
-<div align="left">
+<div align="center">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=70&section=footer" alt="Footer"/>
 </div>
 
