@@ -10,21 +10,21 @@
 <!--
     🎨 Header Banner
 -->
-<div align="center">
+<div align="left">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=70&section=header" alt="Header"/>
 </div>
 
 <!--
     ✨ Animated Introduction - Readme Typing SVG
 -->
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&center=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
+<div align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&left=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
 </div>
 
 ### 🚀 My Mission
 
-<div align="center">
-My name is **Hélder Fernandes**, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
+<div align="left">
+My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
 </div>
 
 ### 👀 About Me
@@ -39,26 +39,23 @@ My name is **Hélder Fernandes**, i’m a passionate software developer focused 
 
 ### ⚙️ Main Skills
 
-<div align="center">
-    <!-- First row: Most commonly used or core skills -->
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,nodejs,ts,react,sql,sqlserver,mysql"/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,nodejs,ts,react,sqlite,mysql"/>
     <br/>
-    <!-- Second row: Frontend and version control tools -->
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,git,github,gitlab"/>
     <br/>
-    <!-- Third row: Supporting tools and design -->
-    <img src="https://skillicons.dev/icons?i=docker&theme=light,postman&theme=light,sentry&theme=light,notion&theme=light,vite&theme=light,figma&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=docker,postman,sentry,notion,vite,figma"/>
 </div>
 
 ### 📚 Currently Learning
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,aws,azure"/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,azure,aws"/>
 </div>
 
 ### 🌍 Connect with Me!
 
-<div align="center">
+<div align="left">
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
     </a>
@@ -70,15 +67,24 @@ My name is **Hélder Fernandes**, i’m a passionate software developer focused 
     </a>
 </div>
 
+<!-->
+
+### 👨‍💼 Looking to Hire?
+
+> [!IMPORTANT]  
+> 📜 **[Download My Resume](https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing)**
+
+-->
+
 ### ⚡️ GitHub Stats
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
+<div align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
 </div>
 
 ### ☕ Support My Work
 
-<div align="center">
+<div align="left">
     <a href="https://www.buymeacoffee.com/HelderHub"> 
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="208" alt="Buy Me a Coffee"/>
     </a>
@@ -87,7 +93,7 @@ My name is **Hélder Fernandes**, i’m a passionate software developer focused 
 <!--
     🎨 Footer Banner
 -->
-<div align="center">
+<div align="left">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=70&section=footer" alt="Footer"/>
 </div>
 
@@ -97,6 +103,14 @@ My name is **Hélder Fernandes**, i’m a passionate software developer focused 
     - Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
     - Skill Icons: https://github.com/tandpfun/skill-icons#readme
     - GitHub Stats: https://github.com/anuraghazra/github-readme-stats
+-->
+
+<!--  
+    ❌ Unused Elements:
+
+    <div>
+        <img src="./assets/about_helder.gif" alt="About me terminal GIF"/>
+    </div>
 -->
 
 <!--
