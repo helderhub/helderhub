@@ -10,16 +10,22 @@
 <!--
     🎨 Header Banner
 -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="Header"/>
+<div>
+    <p align="center">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=header" alt="Header"/>
+    </p>
+</div>
 
 <!--
     ✨ Animated Introduction - Readme Typing SVG
 -->
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
-</h1>
+<div>
+    <p align="center">
+        <h1>
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=48&center=true&vCenter=true&width=500&height=70&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
+        </h1>
+    </p>
+</div>
 
 <!--
     🎯 My Mission Statement
@@ -27,8 +33,12 @@
 
 ## 🚀 My Mission
 
-<h3 align="center">I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications.</h3>
-<h3 align="center">With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences.</h3>
+<div>
+    <p align="center">
+        <h3>I’m a passionate software developer focused on building clean, scalable, and user-friendly web applications.</h3>
+        <h3>With a problem-solving mindset and a keen eye for efficiency, I create technology-driven solutions that optimize processes and enhance user experiences.</h3>
+    </p>
+</div>
 
 <!--
     🛠️ My Technical Skills              Premium user stackoverflow
@@ -36,11 +46,12 @@
 
 ## 🛠️ Main Skills
 
-<p align="center"> 
-<img src="https://skillicons.dev/icons?i=c++,c#,.net,php,laravel,nodejs,ts,react,sql,sqlserver,mysql"/>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,git,github,gitlab,docker,postman,sentry,notion,smarty,vite,figma,linux" /> 
-</p>
+<div>
+    <p align="center">
+        <img src="https://skillicons.dev/icons?i=c++,c#,.net,php,laravel,nodejs,ts,react,sql,sqlserver,mysql"/>
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,git,github,gitlab,docker,postman,sentry,notion,smarty,vite,figma,linux"/> 
+    </p>
+</div>
 
 <!--
     📚 Technologies I'm currently exploring
@@ -48,9 +59,11 @@
 
 ## 📚 Currently Learning
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutteraws,azure," />
-</p>
+<div>
+    <p align="center">
+        <img src="https://skillicons.dev/icons?i=dart,flutteraws,azure,"/>
+    </p>
+</div>
 
 <!--
     🌍 Where to find me online
@@ -63,11 +76,11 @@
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
     </a>
-    <a href="https://dev.to/helderhub">
-        <img src="https://skillicons.dev/icons?i=github" alt="LinkedIn" width="48" height="48"/>
-    </a>
     <a href="https://www.credly.com/users/helderfernandes101">
-        <img src="https://skillicons.dev/icons?i=credly" alt="LinkedIn" width="48" height="48"/>
+        <img src="https://skillicons.dev/icons?i=credly" alt="Credly" width="48" height="48"/>
+    </a>
+    <a href="https://github.com/HelderHub">
+        <img src="https://skillicons.dev/icons?i=github" alt="Credly" width="48" height="48"/>
     </a>
 </p>
 </div>
@@ -96,16 +109,21 @@
 <!--
     ☕ Support My Work
 -->
-<div align=center>
+<div>
+<p align="center">
 <a href="https://www.buymeacoffee.com/HelderHub"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="208" alt="Buy Me a Coffee"/>
 </a>
 </div>
 
 <!--
     🎨 Footer Banner
 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=footer" alt="Footer"/>
+<div>
+    <p align="center">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6bc4cc&height=120&section=footer" alt="Footer"/>
+    </p>
+</div>
 
 <!--
     🔗 Resources Used in this README:
