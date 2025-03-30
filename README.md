@@ -44,7 +44,7 @@ My name is Hélder Fernandes, i’m a passionate software developer focused on b
     <br/>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,figma"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=docker,postman,sentry,notion,vite,git,github,gitlab"/>
+    <img src="https://skillicons.dev/icons?i=docker,postman,sentry,vite,git,github,gitlab"/>
 </div>
 
 ### 📚 Currently Learning
@@ -76,17 +76,17 @@ My name is Hélder Fernandes, i’m a passionate software developer focused on b
 
 -->
 
-### ⚡️ GitHub Stats
+<!-- ### ⚡️ GitHub Stats
 
 <div align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
-</div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
+</div> -->
 
 ### ☕ Support My Work
 
 <div align="left">
     <a href="https://www.buymeacoffee.com/HelderHub"> 
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="208" alt="Buy Me a Coffee"/>
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="96" alt="Buy Me a Coffee"/>
     </a>
 </div>
 
