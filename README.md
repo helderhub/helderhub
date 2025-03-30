@@ -39,7 +39,7 @@
 ### ⚙️ Main Skills
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,nodejs,ts,react,sqlite,mysql"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,nodejs,ts,sqlite,mysql"/>
     <br/>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,figma"/>
     <br/>
