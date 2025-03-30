@@ -23,9 +23,8 @@
 
 ### 🚀 My Mission
 
-<div align="left">
-My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
-</div>
+
+- My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
 
 ### 👀 About Me
 
@@ -86,7 +85,7 @@ My name is Hélder Fernandes, i’m a passionate software developer focused on b
 
 <div align="left">
     <a href="https://www.buymeacoffee.com/HelderHub"> 
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="96" alt="Buy Me a Coffee"/>
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="144" alt="Buy Me a Coffee"/>
     </a>
 </div>
 
