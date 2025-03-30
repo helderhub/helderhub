@@ -42,9 +42,9 @@ My name is Hélder Fernandes, i’m a passionate software developer focused on b
 <div align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,nodejs,ts,react,sqlite,mysql"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,git,github,gitlab"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,vue,figma"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=docker,postman,sentry,notion,vite,figma"/>
+    <img src="https://skillicons.dev/icons?i=docker,postman,sentry,notion,vite,git,github,gitlab"/>
 </div>
 
 ### 📚 Currently Learning
@@ -67,7 +67,7 @@ My name is Hélder Fernandes, i’m a passionate software developer focused on b
     </a>
 </div>
 
-<!-->
+<!--
 
 ### 👨‍💼 Looking to Hire?
 
