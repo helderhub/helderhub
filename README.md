@@ -18,7 +18,7 @@
     ✨ Animated Introduction - Readme Typing SVG
 -->
 
-### 🚀 MY MISSION
+## 🚀 My mission
 
 - My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
 
@@ -32,7 +32,7 @@
 - ❤️ Favourite emoji: **🚀**.
 - ⚡ Fun fact: I enjoy solving complex problems and optimizing processes, but I also love exploring new cuisines 🧑‍🍳.
 
-# ⚙️ Main Skills
+## ⚙️ Main Skills
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,nodejs,ts,sqlite,mysql"/>
@@ -42,14 +42,14 @@
     <img src="https://skillicons.dev/icons?i=docker,postman,sentry,vite,git,github,gitlab"/>
 </div>
 
-### 📚 Currently Learning
-<br>
+## 📚 Currently Learning
+
 <div align="left">
     <img src="https://skillicons.dev/icons?i=dart,flutter,azure,aws"/>
 </div>
 
-### 🌍 Connect with Me!
-<br>
+## 🌍 Connect with Me!
+
 <div align="left">
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
@@ -77,8 +77,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
 </div> -->
 
-### ☕ Support My Work
-<br>
+## ☕ Support My Work
+
 <div align="left">
     <a href="https://www.buymeacoffee.com/HelderHub"> 
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="144" alt="Buy Me a Coffee"/>
