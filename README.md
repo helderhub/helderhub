@@ -22,7 +22,7 @@
 </div>
 
 <div align="left">
-### 🚀<img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&left=true&pause=500000000000&center=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&lines=My Mission+👋;" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&left=true&pause=500000000000&center=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&lines=🚀My Mission+👋;" alt="Typing SVG"/>
 </div>
 
 
