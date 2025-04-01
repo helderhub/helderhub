@@ -21,7 +21,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&left=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
 </div>
 
-### 🚀 My Mission
+<div align="left">
+### 🚀<img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&left=true&pause=500000000000&center=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&lines=My Mission+👋;" alt="Typing SVG"/>
+</div>
 
 
 - My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
