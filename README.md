@@ -18,11 +18,11 @@
     ✨ Animated Introduction - Readme Typing SVG
 -->
 
-### 🚀 About Me
+### 🚀 MY MISSION
 
 - My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
 
-### 👀 About Me
+## 👀 About Me
 
 - 📖 I’m currently learning **Flutter** and exploring **AWS** and **Azure**.
 - 📌 I'm interested in **mobile development**, **cloud technologies**, and **design patterns**.
@@ -33,7 +33,7 @@
 - ⚡ Fun fact: I enjoy solving complex problems and optimizing processes, but I also love exploring new cuisines 🧑‍🍳.
 ---
 ### ⚙️ Main Skills
-
+<hr>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,nodejs,ts,sqlite,mysql"/>
     <br/>
@@ -41,13 +41,13 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=docker,postman,sentry,vite,git,github,gitlab"/>
 </div>
----
+
 ### 📚 Currently Learning
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=dart,flutter,azure,aws"/>
 </div>
----
+<br>
 ### 🌍 Connect with Me!
 
 <div align="left">
@@ -61,7 +61,7 @@
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48"/>
     </a>
 </div>
----
+
 <!--
 
 ### 👨‍💼 Looking to Hire?
@@ -76,7 +76,7 @@
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
 </div> -->
----
+
 ### ☕ Support My Work
 
 <div align="left">
