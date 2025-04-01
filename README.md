@@ -17,14 +17,8 @@
 <!--
     ✨ Animated Introduction - Readme Typing SVG
 -->
-<div align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&left=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&pause=300&lines=Hi+There!+👋;+I'm+Hélder+Fernandes!;Software+Developer" alt="Typing SVG"/>
-</div>
 
-<div align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=32&left=true&pause=500000000000&center=true&vCenter=true&width=500&height=48&color=6bc4cc&duration=4000&lines=🚀My Mission+👋;" alt="Typing SVG"/>
-</div>
-
+### 🚀 About Me
 
 - My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
 
@@ -37,7 +31,7 @@
 - 😄 Pronouns: **he, him**.
 - ❤️ Favourite emoji: **🚀**.
 - ⚡ Fun fact: I enjoy solving complex problems and optimizing processes, but I also love exploring new cuisines 🧑‍🍳.
-
+---
 ### ⚙️ Main Skills
 
 <div align="left">
@@ -47,13 +41,13 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=docker,postman,sentry,vite,git,github,gitlab"/>
 </div>
-
+---
 ### 📚 Currently Learning
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=dart,flutter,azure,aws"/>
 </div>
-
+---
 ### 🌍 Connect with Me!
 
 <div align="left">
@@ -67,7 +61,7 @@
         <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48"/>
     </a>
 </div>
-
+---
 <!--
 
 ### 👨‍💼 Looking to Hire?
@@ -82,7 +76,7 @@
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=helderhub&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
 </div> -->
-
+---
 ### ☕ Support My Work
 
 <div align="left">
