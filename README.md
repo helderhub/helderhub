@@ -19,11 +19,11 @@
 -->
 
 ### 🚀 MY MISSION
-<hr>
+
 - My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
 
 ## 👀 About Me
-<hr>
+
 - 📖 I’m currently learning **Flutter** and exploring **AWS** and **Azure**.
 - 📌 I'm interested in **mobile development**, **cloud technologies**, and **design patterns**.
 - 💬 Ask me about: **C#, .NET, JavaScript, TypeScript, and Laravel**.
@@ -32,8 +32,8 @@
 - ❤️ Favourite emoji: **🚀**.
 - ⚡ Fun fact: I enjoy solving complex problems and optimizing processes, but I also love exploring new cuisines 🧑‍🍳.
 
-### ⚙️ Main Skills
-<hr>
+# ⚙️ Main Skills
+
 <div align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,php,laravel,nodejs,ts,sqlite,mysql"/>
     <br/>
@@ -43,13 +43,13 @@
 </div>
 
 ### 📚 Currently Learning
-<hr>
+<br>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=dart,flutter,azure,aws"/>
 </div>
 
 ### 🌍 Connect with Me!
-<hr width="48>
+<br>
 <div align="left">
     <a href="https://www.linkedin.com/in/helderfernandes101/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
@@ -78,7 +78,7 @@
 </div> -->
 
 ### ☕ Support My Work
-<hr>
+<br>
 <div align="left">
     <a href="https://www.buymeacoffee.com/HelderHub"> 
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="144" alt="Buy Me a Coffee"/>
