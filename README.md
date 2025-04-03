@@ -23,12 +23,12 @@
 
 ### 🚀 My mission
 
-- My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, scalable, and user-friendly web applications while continuously learning and improving my skills.
+- My name is Hélder Fernandes, i’m a passionate software developer focused on building clean, safe, scalable, and user-friendly web applications while continuously learning and improving my skills.
 
 ### 👀 About Me
 
 - 📖 I’m currently learning **Flutter** and exploring **AWS** and **Azure**.
-- 📌 I'm interested in **mobile development**, **cloud technologies**, and **design patterns**.
+- 📌 I'm interested in **cybersecurity**, **mobile development**, **cloud technologies**.
 - 💬 Ask me about: **C#, .NET, JavaScript, TypeScript, and Laravel**.
 - 👨‍💻 My projects are available [here](https://github.com/HelderHub).
 - 😄 Pronouns: **he, him**.
